@@ -6,3 +6,5 @@ It provides separate channels for exhale and inhale control, adjustments of duty
 
 The design consists of minimal number of commonly available electronic parts with total bill of materials under 10EUR
 Simple circuit can be assembled with minimal effort on a one-sided PCB without SMD elements involved, stripboard, or even using deadbug connections.
+
+Looking forward to contributions: PCB design (preferrably EAGLE) needed.
