@@ -8,3 +8,5 @@ The design consists of minimal number of commonly available electronic parts wit
 Simple circuit can be assembled with minimal effort on a one-sided PCB without SMD elements involved, stripboard, or even using deadbug connections.
 
 Looking forward to contributions: PCB design (preferrably EAGLE) needed.
+
+![circuit diagram](/circuit/konpona_circuit_diagram_v0.1.jpg)
