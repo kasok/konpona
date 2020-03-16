@@ -1,5 +1,5 @@
 # konpona
-Konpona, improvised ventilator controller
+**Konpona** *(from toki pona language: good air)*, improvised ventilator controller
 
 Konpona is a design of a robust, analog circuit for operating improvised medical ventilators.
 It provides separate channels for exhale and inhale control, adjustments of duty cycle and timing, separate pressure adjustment by controlling the current flow for powering a DC motor.
